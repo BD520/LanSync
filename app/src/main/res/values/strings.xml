@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LanSync</string>
+    <string name="main_description">LanSync V\n>></string>
+    <string name="cmd_start"> >> </string>
+    <string name="welcome">欢迎使用 局域网同步\n使用本APP可以在局域网所有Android和PC上同步你的 通讯录、短信、APP、图片、音乐\n你只需要运行本APP即可，其他的事情全部交给我吧，本APP保证绿色安全，所有信息均在局域网中传输，不会连接到任何其他服务器</string>
+    <string name="manual">1.授予APP所有权限\n2.在需要同步的手机上启动本软件\n3.在电脑上安装APP提供的Java客户端并运行.\n4.App启动后会自动连接其他客户端并同步所有数据.\n点击屏幕继续</string>
+    <string name="step1_check_permission">第一步,检测权限</string>
+    <string name="phone_state_not_granted">没有授予电话权限!</string>
+    <string name="contacts_not_granted">没有授予通讯录权限!</string>
+    <string name="sms_not_granted">没有授予短信权限!</string>
+    <string name="sdcard_not_granted">没有授予存储空箭权限!</string>
+    <string name="lower_than_m">手机系统低于6.0不需要授权,如果使用非原生系统,请在APP设置中授予所有权限再继续.</string>
+    <string name="click_to_next_step">点击屏幕进行下一步</string>
+    <string name="init_database">初始化数据库</string>
+    <string name="start_local_database_sync_service">启动本地数据同步服务</string>
+    <string name="local_contacts_sync_started">同步本地联系人-开始</string>
+    <string name="local_contacts_sync_finished">同步本地联系人-完成</string>
+    <string name="local_contacts_sync_error">同步本地联系人-失败</string>
+</resources>
